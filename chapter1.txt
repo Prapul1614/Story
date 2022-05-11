@@ -1,4 +1,4 @@
-Hii, this is my chapter1 
+Hii, this is my chapter1 . Just trying out alien-theme.
 
 git init
 git status
