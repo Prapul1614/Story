@@ -1,1 +1,11 @@
 Hii, this is my chapter1 
+
+git init
+git status
+git add chapter1.txt
+git status
+git commit -m ""
+git log
+
+git diff chapter1.txt
+git checkout chapter1.txt
