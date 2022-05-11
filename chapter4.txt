@@ -1,0 +1,12 @@
+git branch alien-plot
+git checkout alien-plot
+     .
+     .
+     .
+git add .
+git commit -m "changes with alien-plot"
+
+git checkout main
+touch chapter4.txt
+git add .
+git commit -m "adding chap4"
